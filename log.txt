@@ -41,3 +41,43 @@
  Added To Log: Song Name:California, 
  Added To Log: Album: California, 
  Added To Log: The Lagoons, 
+ Added To Log: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ Added To Log: user called do_what_it_says from command line, 
+ Added To Log: {nameString}(argString) in do_what_it_says line 261 
+
+ Added To Log: spotify_this_song line 26 user asked for song named california, 
+ Added To Log: END do_what_it_says 
+ 
+
+ Added To Log: fs.readFile in do_what_it_says line 251, 
+ Added To Log: user called concert_this from command line, first on line 129 require(moment), 
+ Added To Log: user called movie_this from command line, first on line 184 require(OMDB), 
+ Added To Log: Year: 1947, 
+ Added To Log: Title: California, 
+ Added To Log: Rotten Tomatos rating: , 
+ Added To Log: Language: English, 
+ Added To Log: IMDB rating: 6.3/10, 
+ Added To Log:  END movie_this 
+ 
+
+ Added To Log: Plot: Epic account of how California became a state, featuring a wagon train, the Gold Rush, a wicked saloon queen, and an evil profiteer., 
+ Added To Log: Castmembers: Ray Milland, Barbara Stanwyck, Barry Fitzgerald, George Coulouris
+
+ Added To Log: 
+ movie_this line 256 ajax response FOUND and console.log'd the following: 
+ 
+ Added To Log: Country of origin: USA, 
+ Added To Log: NOTHING FOUND 
+
+ Added To Log: END concert_this 
+ 
+
+ Added To Log: FOUND MATCH spotify_this_song line 93 
+
+ Added To Log: Cast: 
+ Added To Log: The Lagoons, 
+ Added To Log: Song Name:California, 
+ Added To Log: END spotify_this_song 
+ 
+
+ Added To Log: Album: California, 
