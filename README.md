@@ -49,6 +49,7 @@
 ## Here are the packages I used: 
        
         var fs = require("fs");
+        var omdb = require('omdb');
 	    var request = require("request");
         var keys = require("./keys");
         var Spotify = require('node-spotify-api');
