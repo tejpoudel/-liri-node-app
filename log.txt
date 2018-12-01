@@ -13,3 +13,390 @@ undefinedundefined
 undefined
 
 undefined
+
+undefined
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named drake, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: 
+ movie_this line 256 ajax response FOUND and console.log'd the following: 
+ 
+ LOGGING: Year: 2013, 
+ LOGGING: Plot: DRAKE is a thriller set in London in the present time. It's gritty with a subtle dark magical flavor. The story follows Carter Drake an underground fighter who finds himself questioning ..., 
+ LOGGING: IMDB rating: 7.9/10, 
+ LOGGING: Language: English, 
+ LOGGING: Castmembers: Cengiz Dervis, Grahame Edwards, Tanya Winsor, Dan Styles
+
+ LOGGING:  END movie_this 
+ 
+
+ LOGGING: Title: Drake, 
+ LOGGING: Country of origin: UK, 
+ LOGGING: Rotten Tomatos rating: , 
+ LOGGING: FOUND EVENTS: 
+
+ LOGGING: Accorhotels Arena Paris 03/08/2019
+ LOGGING: END concert_this 
+ 
+
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named titanic, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: 
+ movie_this line 256 ajax response FOUND and console.log'd the following: 
+ 
+ LOGGING: Title: Titanic, 
+ LOGGING: IMDB rating: 7.8/10, 
+ LOGGING: Country of origin: USA, 
+ LOGGING: Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic., 
+ LOGGING: Castmembers: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+ LOGGING:  END movie_this 
+ 
+
+ LOGGING: Rotten Tomatos rating: 89%, 
+ LOGGING: Language: English, Swedish, 
+ LOGGING: Year: 1997, 
+ LOGGING: FOUND EVENTS: 
+, 
+ LOGGING: Luxor Las Vegas 12/03/2018, 
+ LOGGING: Luxor Las Vegas 12/01/2018, 
+ LOGGING: Luxor Las Vegas 12/02/2018, 
+ LOGGING: Luxor Las Vegas 12/06/2018, 
+ LOGGING: Luxor Las Vegas 12/07/2018, 
+ LOGGING: Luxor Las Vegas 12/08/2018, 
+ LOGGING: Luxor Las Vegas 12/09/2018, 
+ LOGGING: Luxor Las Vegas 12/10/2018, 
+ LOGGING: Luxor Las Vegas 12/11/2018, 
+ LOGGING: Luxor Las Vegas 12/12/2018, 
+ LOGGING: Luxor Las Vegas 12/13/2018, 
+ LOGGING: Luxor Las Vegas 12/14/2018, 
+ LOGGING: Luxor Las Vegas 12/15/2018, 
+ LOGGING: Luxor Las Vegas 12/16/2018, 
+ LOGGING: Luxor Las Vegas 12/17/2018, 
+ LOGGING: Luxor Las Vegas 12/18/2018, 
+ LOGGING: Luxor Las Vegas 12/19/2018, 
+ LOGGING: Luxor Las Vegas 12/20/2018, 
+ LOGGING: Luxor Las Vegas 12/21/2018, 
+ LOGGING: Luxor Las Vegas 12/22/2018, 
+ LOGGING: Luxor Las Vegas 12/23/2018, 
+ LOGGING: Luxor Las Vegas 12/24/2018, 
+ LOGGING: Luxor Las Vegas 12/25/2018, 
+ LOGGING: Luxor Las Vegas 12/26/2018, 
+ LOGGING: Luxor Las Vegas 12/27/2018, 
+ LOGGING: Luxor Las Vegas 12/28/2018, 
+ LOGGING: Luxor Las Vegas 12/29/2018, 
+ LOGGING: Luxor Las Vegas 12/30/2018, 
+ LOGGING: Luxor Las Vegas 12/31/2018
+ LOGGING: END concert_this 
+ 
+
+ LOGGING: Luxor Las Vegas 12/05/2018
+ LOGGING: Luxor Las Vegas 12/04/2018, 
+ LOGGING: FOUND MATCH spotify_this_song line 93 
+
+ LOGGING: Album: Titanic, 
+ LOGGING: Song Name:Titanic, 
+ LOGGING: Russ, 
+ LOGGING: END spotify_this_song 
+ 
+
+ LOGGING: Cast: 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named california, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: 
+ movie_this line 256 ajax response FOUND and console.log'd the following: 
+ 
+ LOGGING: Title: California, 
+ LOGGING: IMDB rating: 6.3/10, 
+ LOGGING: Rotten Tomatos rating: , 
+ LOGGING: Plot: Epic account of how California became a state, featuring a wagon train, the Gold Rush, a wicked saloon queen, and an evil profiteer., 
+ LOGGING: Castmembers: Ray Milland, Barbara Stanwyck, Barry Fitzgerald, George Coulouris
+
+ LOGGING: Country of origin: USA, 
+ LOGGING: Language: English, 
+ LOGGING:  END movie_this 
+ 
+
+ LOGGING: Year: 1947, 
+ LOGGING: NOTHING FOUND 
+
+ LOGGING: END concert_this 
+ 
+
+ LOGGING: FOUND MATCH spotify_this_song line 93 
+
+ LOGGING: Song Name:California, 
+ LOGGING: END spotify_this_song 
+ 
+
+ LOGGING: The Lagoons, 
+ LOGGING: Album: California, 
+ LOGGING: Cast: 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 55 user didn't specify a song, so we default to The Sign, 
+ LOGGING: user did NOT provide a band/artist name so we sent them back to command line with request to type it in and press Enter, 
+ LOGGING:  movie_this line 194, but no movie name was given, 
+ LOGGING: so we defaulted to Mr. Nobody 
+
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: END movie_this 
+ 
+
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 26 user asked for song named california, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING:  movie_this line 194, but no movie name was given, 
+ LOGGING: END movie_this 
+ 
+
+ LOGGING: so we defaulted to Mr. Nobody 
+
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: spotify_this_song line 55 user didn't specify a song, so we default to The Sign, 
+ LOGGING: user did NOT provide a band/artist name so we sent them back to command line with request to type it in and press Enter, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: spotify_this_song line 55 user didn't specify a song, so we default to The Sign, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user did NOT provide a band/artist name so we sent them back to command line with request to type it in and press Enter, 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING:  movie_this line 194, but no movie name was given, 
+ LOGGING: END movie_this 
+ 
+
+ LOGGING: so we defaulted to Mr. Nobody 
+
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: spotify_this_song line 26 user asked for song named california, 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: 
+ movie_this line 256 ajax response FOUND and console.log'd the following: 
+ 
+ LOGGING: Rotten Tomatos rating: , 
+ LOGGING: Country of origin: USA, 
+ LOGGING: Plot: Epic account of how California became a state, featuring a wagon train, the Gold Rush, a wicked saloon queen, and an evil profiteer., 
+ LOGGING: Language: English, 
+ LOGGING: Castmembers: Ray Milland, Barbara Stanwyck, Barry Fitzgerald, George Coulouris
+
+ LOGGING:  END movie_this 
+ 
+
+ LOGGING: IMDB rating: 6.3/10, 
+ LOGGING: Year: 1947, 
+ LOGGING: Title: California, 
+ LOGGING: NOTHING FOUND 
+
+ LOGGING: END concert_this 
+ 
+
+ LOGGING: FOUND MATCH spotify_this_song line 93 
+
+ LOGGING: Album: California, 
+ LOGGING: END spotify_this_song 
+ 
+
+ LOGGING: The Lagoons, 
+ LOGGING: Song Name:California, 
+ LOGGING: Cast: 
+ LOGGING: user called spotify_this_song from command line, first on line 12 & 13 require(./keys) and require(node-spotify-api), 
+ LOGGING: fs.readFile in do_what_it_says line 251, 
+ LOGGING: END do_what_it_says 
+ 
+
+ LOGGING: {nameString}(argString) in do_what_it_says line 261 
+
+ LOGGING: user called do_what_it_says from command line, 
+ LOGGING: spotify_this_song line 26 user asked for song named titanic, 
+ LOGGING: user called movie_this from command line, first on line 184 require(OMDB), 
+ LOGGING: user called concert_this from command line, first on line 129 require(moment), 
+ LOGGING: 
+ movie_this line 256 ajax response FOUND and console.log'd the following: 
+ 
+ LOGGING: Title: Titanic, 
+ LOGGING: Language: English, Swedish, 
+ LOGGING: Country of origin: USA, 
+ LOGGING: Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic., 
+ LOGGING: Castmembers: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+ LOGGING:  END movie_this 
+ 
+
+ LOGGING: Rotten Tomatos rating: 89%, 
+ LOGGING: Year: 1997, 
+ LOGGING: IMDB rating: 7.8/10, 
+ LOGGING: FOUND EVENTS: 
+
+ LOGGING: Luxor Las Vegas 12/01/2018
+ LOGGING: Luxor Las Vegas 12/02/2018, , , 
+ LOGGING: Luxor Las Vegas 12/05/2018, 
+ LOGGING: Luxor Las Vegas 12/06/2018, 
+ LOGGING: Luxor Las Vegas 12/07/2018, 
+ LOGGING: Luxor Las Vegas 12/08/2018, 
+ LOGGING: Luxor Las Vegas 12/09/2018, 
+ LOGGING: Luxor Las Vegas 12/10/2018, 
+ LOGGING: Luxor Las Vegas 12/11/2018, 
+ LOGGING: Luxor Las Vegas 12/12/2018, 
+ LOGGING: Luxor Las Vegas 12/13/2018, 
+ LOGGING: Luxor Las Vegas 12/14/2018, 
+ LOGGING: Luxor Las Vegas 12/15/2018, 
+ LOGGING: Luxor Las Vegas 12/16/2018, 
+ LOGGING: Luxor Las Vegas 12/17/2018, 
+ LOGGING: Luxor Las Vegas 12/18/2018, 
+ LOGGING: Luxor Las Vegas 12/19/2018, 
+ LOGGING: Luxor Las Vegas 12/20/2018, 
+ LOGGING: Luxor Las Vegas 12/21/2018, 
+ LOGGING: Luxor Las Vegas 12/22/2018, 
+ LOGGING: Luxor Las Vegas 12/23/2018, 
+ LOGGING: Luxor Las Vegas 12/24/2018, 
+ LOGGING: Luxor Las Vegas 12/25/2018, 
+ LOGGING: Luxor Las Vegas 12/26/2018, 
+ LOGGING: Luxor Las Vegas 12/27/2018, 
+ LOGGING: Luxor Las Vegas 12/28/2018, 
+ LOGGING: Luxor Las Vegas 12/29/2018
+ LOGGING: Luxor Las Vegas 12/04/2018
+ LOGGING: Luxor Las Vegas 12/30/2018, 
+ LOGGING: Luxor Las Vegas 12/31/2018
+ LOGGING: END concert_this 
+ 
+, , 
+ LOGGING: Luxor Las Vegas 12/03/2018
+ LOGGING: FOUND MATCH spotify_this_song line 93 
+
+ LOGGING: Russ, 
+ LOGGING: END spotify_this_song 
+ 
+
+ LOGGING: Song Name:Titanic, 
+ LOGGING: Cast: 
+ LOGGING: Album: Titanic, 
