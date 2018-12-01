@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "creating a liri app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "node liri.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejpoudel/liri-node-app.git"
+  },
+  "author": "Tej Poudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejpoudel/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tejpoudel/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "inquirer": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
