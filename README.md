@@ -38,11 +38,11 @@
 
 ## Heres a Snapshot
 
-![OMDB](https://github.com/IamGiel/liri-node-app/blob/master/images/spotify-this-song.png?raw=true)
+![OMDB](https://github.com/tejpoudel/liri-node-app/blob/master/images/OMDB%20API.png)
 
 ## A log.txt is provided to display all data pulled by LIRI
 
-![logs](https://github.com/IamGiel/liri-node-app/blob/master/images/logs.png?raw=true)
+![logs](https://github.com/tejpoudel/liri-node-app/blob/master/images/%20log.png)
 
 <br>
 
