@@ -36,7 +36,7 @@
   </tr>
   </table>
 
-## Heres a Snapshot
+## Heres a Snapshot of LIRI App
 
 ![OMDB](https://github.com/tejpoudel/liri-node-app/blob/master/images/OMDB%20API.png)
 
@@ -46,7 +46,7 @@
 
 <br>
 
-Here are the packages I used: 
+## Here are the packages I used: 
        
         var fs = require("fs");
 	    var request = require("request");
